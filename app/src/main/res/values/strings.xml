@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Grocery App</string>
+    <string name="demo">Demo</string>
+    <string name="exclusive_o">Exclusive Offer</string>
+    <string name="groceries">Groceries</string>
+    <string name="best_sellin">Best Selling</string>
+    <string name="see_all">See all</string>
+
+</resources>
